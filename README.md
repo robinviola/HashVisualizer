@@ -22,7 +22,7 @@ This project was created at 16 years old as an introduction to cybersecurity con
 ### 3. File integrity check using hashes  
 [![File Integrity](https://i.ibb.co/xcb9ZCG/HASH3.png)](https://ibb.co/hRnLhjvv)
 
-[![File Integrity](https://i.ibb.co/xcb9ZCG/HASH3.png)
+[[![File Integrity](https://i.ibb.co/zWMDqdZm/HASH2.png)](https://i.ibb.co/zWMDqdZm/HASH2.png)
 
 ## 🚀 How to use
 
