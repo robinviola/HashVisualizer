@@ -13,14 +13,14 @@ This project was created at 16 years old as an introduction to cybersecurity con
 
 ## 🖼️ Screenshots
 
-### 1. What does a hash function do?
-[![Main UI](https://i.ibb.co/jkd5mPPP/Sans-titre-1.png)](https://ibb.co/1fCtWmQv)
+![Hash Visualizer](https://i.ibb.co/dwfHvd1d/hvTITLE.png)
 
-### 2. Why even Facebook can't see your password 
-[![Hashing Example]([https://i.ibb.co/zWMDqdZm/HASH2.png)](https://ibb.co/HfH13GLy)
+![What does a hash function do?](https://i.ibb.co/jkd5mPPP/Sans-titre-1.png)
 
-### 3. File integrity check using hashes  
-[![File Integrity](https://i.ibb.co/zWMDqdZm/HASH2.png)](https://i.ibb.co/zWMDqdZm/HASH2.png)
+![Password hashing example](https://i.ibb.co/zWMDqdZm/HASH2.png)
+
+![Different hash = Different file](https://i.ibb.co/xcb9ZCG/HASH3.png)
+
 
 ## 🚀 How to use
 
