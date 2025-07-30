@@ -17,8 +17,6 @@ This project was created at 16 years old as an introduction to cybersecurity con
 
 ![What does a hash function do?](https://i.ibb.co/jkd5mPPP/Sans-titre-1.png)
 
-<img src="https://i.ibb.co/zWMDqdZm/HASH2.png" alt="Real-world example" width="600" />
-
 ![Different hash = Different file](https://i.ibb.co/xcb9ZCG/HASH3.png)
 
 
