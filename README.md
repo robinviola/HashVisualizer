@@ -14,7 +14,7 @@ This project was created at 16 years old as an introduction to cybersecurity con
 ## 🖼️ Screenshots
 
 ### 1. What does a hash function do?
-[![Main UI](https://i.ibb.co/dwfHvd1d/hvTITLE.png)](https://ibb.co/1fCtWmQv)
+[![Main UI](https://i.ibb.co/jkd5mPPP/Sans-titre-1.png)](https://ibb.co/1fCtWmQv)
 
 ### 2. Why even Facebook can't see your password 
 ![Hashing Example]([https://i.ibb.co/zWMDqdZm/HASH2.png](https://ibb.co/HfH13GLy))
